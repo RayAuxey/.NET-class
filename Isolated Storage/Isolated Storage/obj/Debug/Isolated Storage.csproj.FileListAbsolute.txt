@@ -1,0 +1,3 @@
+C:\Users\STUDENT.LABA-PC.000\Desktop\101010\Isolated Storage\Isolated Storage\obj\Debug\App.g.i.cs
+C:\Users\STUDENT.LABA-PC.000\Desktop\101010\Isolated Storage\Isolated Storage\obj\Debug\MainPage.g.i.cs
+C:\Users\STUDENT.LABA-PC.000\Desktop\101010\Isolated Storage\Isolated Storage\obj\Debug\Isolated Storage.g.resources

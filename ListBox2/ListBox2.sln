@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ListBox2", "ListBox2\ListBox2.vbproj", "{CD1F6F95-F14C-4A7F-9758-CFB7E0D367F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD1F6F95-F14C-4A7F-9758-CFB7E0D367F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1F6F95-F14C-4A7F-9758-CFB7E0D367F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1F6F95-F14C-4A7F-9758-CFB7E0D367F7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CD1F6F95-F14C-4A7F-9758-CFB7E0D367F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1F6F95-F14C-4A7F-9758-CFB7E0D367F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD1F6F95-F14C-4A7F-9758-CFB7E0D367F7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
